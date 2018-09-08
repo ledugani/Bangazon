@@ -1,0 +1,11 @@
+c:\users\student\source\repos\Bangazon\Bangazon\bin\Debug\netcoreapp2.1\Bangazon.deps.json
+c:\users\student\source\repos\Bangazon\Bangazon\bin\Debug\netcoreapp2.1\Bangazon.runtimeconfig.json
+c:\users\student\source\repos\Bangazon\Bangazon\bin\Debug\netcoreapp2.1\Bangazon.runtimeconfig.dev.json
+c:\users\student\source\repos\Bangazon\Bangazon\bin\Debug\netcoreapp2.1\Bangazon.dll
+c:\users\student\source\repos\Bangazon\Bangazon\bin\Debug\netcoreapp2.1\Bangazon.pdb
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.csprojAssemblyReference.cache
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.AssemblyInfoInputs.cache
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.AssemblyInfo.cs
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.dll
+c:\users\student\source\repos\Bangazon\Bangazon\obj\Debug\netcoreapp2.1\Bangazon.pdb
